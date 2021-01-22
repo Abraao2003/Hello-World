@@ -1,2 +1,5 @@
-# Ola-Mundo
-Tentando entender melhor.
+# Hello-World
+  
+  Programa não é facil, pelo menos para mim.
+  Acho que encontrei algo que queira me esforçar!
+    
